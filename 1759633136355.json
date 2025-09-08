@@ -1,0 +1,13 @@
+{
+  "name": "Killer Coin",
+  "symbol": "KC",
+  "description": "\"Killer Coin is the fusion of Pepe, Doge, and Shiba — a legendary meme beast created to dominate the crypto jungle. Born from legends. Built to kill.\"",
+  "image": "https://i.ibb.co/XZ2Pd90R/27fcad68eac9.png",
+  "creators": "664D8THpbJmohXrt7B4AT8g5jC8EURHshwy1qa9JLdn4",
+  "attributes": [],
+  "extensions": {
+    "telegram": "https://t.me/killercoincomunity",
+    "twitter": "Twitter @comunitykiller",
+    "website": "https://killercoincommunity.netlify.app"
+  }
+}
